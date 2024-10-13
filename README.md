@@ -1,7 +1,7 @@
 
 # Amazon Sales Data Analysis Case Study
 
-This project presents a comprehensive analysis of Amazon’s sales performance as part of a college case study competition, where I secured second place. The goal of the analysis was to uncover valuable insights from the given datasets to improve business strategies and customer satisfaction.
+This project presents a comprehensive analysis of Amazon’s sales performance as part of my college case study competition, where I secured second place. The goal of the analysis was to uncover valuable insights from the given datasets to improve business strategies and customer satisfaction.
 
 
 
